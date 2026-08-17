@@ -28,10 +28,10 @@
       "name": "Glyph",
       "bundleIdentifier": "com.night.glyph",
       "developerName": "Night",
-      "version": "1.0.9",
-      "versionDate": "2026-08-17T22:49:03Z",
-      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/glyph-v1.0.9/Glyph.ipa",
-      "size": 3240518,
+      "version": "1.0.10",
+      "versionDate": "2026-08-17T23:03:18Z",
+      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/glyph-v1.0.10/Glyph.ipa",
+      "size": 3236841,
       "localizedDescription": "Recordatorio visual de glifos para Ingress Prime",
       "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icons/glyph.png"
     }
