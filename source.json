@@ -3,6 +3,17 @@
   "identifier": "com.tuusuario.testapp.source",
   "apps": [
     {
+      "name": "Biotren",
+      "bundleIdentifier": "com.night.efe",
+      "developerName": "Night",
+      "version": "1.0.7",
+      "versionDate": "2026-08-17T10:34:43Z",
+      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/efe-v1.0.7/Biotren.ipa",
+      "size": 4933857,
+      "localizedDescription": "Horarios sin conexión",
+      "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icons/efe.png"
+    },
+    {
       "name": "TestApp",
       "bundleIdentifier": "com.tuusuario.testapp",
       "developerName": "Tu Nombre",
