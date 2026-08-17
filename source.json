@@ -1,0 +1,16 @@
+{
+  "name": "Mi Fuente Personal",
+  "identifier": "com.tuusuario.testapp.source",
+  "apps": [
+    {
+      "name": "TestApp",
+      "bundleIdentifier": "com.tuusuario.testapp",
+      "developerName": "Tu Nombre",
+      "version": "1.0.10",
+      "versionDate": "2026-08-17T06:25:56Z",
+      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/v1.0.10/TestApp.ipa",
+      "size": 614355,
+      "localizedDescription": "App de prueba, actualizada automaticamente"
+    }
+  ]
+}
