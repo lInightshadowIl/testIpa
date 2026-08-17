@@ -1,6 +1,6 @@
 {
-  "name": "Mi Fuente Personal",
-  "identifier": "com.tuusuario.testapp.source",
+  "name": "my test",
+  "identifier": "com.night.ssh",
   "apps": [
     {
       "name": "Biotren",
