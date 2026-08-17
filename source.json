@@ -6,10 +6,10 @@
       "name": "TestApp",
       "bundleIdentifier": "com.tuusuario.testapp",
       "developerName": "Tu Nombre",
-      "version": "1.0.15",
-      "versionDate": "2026-08-17T06:48:42Z",
-      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/v1.0.15/TestApp.ipa",
-      "size": 427117,
+      "version": "1.0.16",
+      "versionDate": "2026-08-17T06:49:18Z",
+      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/v1.0.16/TestApp.ipa",
+      "size": 377139,
       "localizedDescription": "App de prueba, actualizada automaticamente",
       "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icon.png"
     }
