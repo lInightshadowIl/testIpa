@@ -1,6 +1,8 @@
 {
   "name": "my test",
   "identifier": "com.night.ssh",
+  "description": "Repositorio personal.",
+  "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icons/my.png",
   "apps": [
     {
       "name": "Biotren",
