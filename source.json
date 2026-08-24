@@ -30,10 +30,10 @@
       "name": "Glyph",
       "bundleIdentifier": "com.night.glyph",
       "developerName": "Night",
-      "version": "1.0.65",
-      "versionDate": "2026-08-24T07:20:04Z",
-      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/glyph-v1.0.65/Glyph.ipa",
-      "size": 2606244,
+      "version": "1.0.66",
+      "versionDate": "2026-08-24T07:36:31Z",
+      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/glyph-v1.0.66/Glyph.ipa",
+      "size": 2606733,
       "localizedDescription": "Recordatorio visual de glifos",
       "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icons/glyph.png"
     }
