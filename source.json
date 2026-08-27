@@ -41,10 +41,10 @@
       "name": "Glyph+",
       "bundleIdentifier": "com.night.glyphplus",
       "developerName": "Night",
-      "version": "1.0.9",
-      "versionDate": "2026-08-27T01:02:45Z",
-      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/glyphplus-v1.0.9/Glyph+.ipa",
-      "size": 5832374,
+      "version": "1.0.10",
+      "versionDate": "2026-08-27T01:16:09Z",
+      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/glyphplus-v1.0.10/Glyph+.ipa",
+      "size": 5831943,
       "localizedDescription": "Recordatorio visual de glifos",
       "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icons/glyphplus.png"
     }
