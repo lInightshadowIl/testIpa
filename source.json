@@ -52,10 +52,10 @@
       "name": "GHIA",
       "bundleIdentifier": "com.night.ghia",
       "developerName": "Night",
-      "version": "1.0.1",
-      "versionDate": "2026-08-27T07:31:53Z",
-      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/ghia-v1.0.1/GHIA.ipa",
-      "size": 2501862,
+      "version": "1.0.2",
+      "versionDate": "2026-08-27T07:39:23Z",
+      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/ghia-v1.0.2/GHIA.ipa",
+      "size": 2501893,
       "localizedDescription": "Recordatorio visual de glifos",
       "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icons/ghia.png"
     }
