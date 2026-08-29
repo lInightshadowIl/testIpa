@@ -58,6 +58,17 @@
       "size": 2535490,
       "localizedDescription": "Recordatorio visual de glifos",
       "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icons/ghia.png"
+    },
+    {
+      "name": "RGMY",
+      "bundleIdentifier": "com.night.rgmy",
+      "developerName": "Night",
+      "version": "1.0.1",
+      "versionDate": "2026-08-29T03:40:17Z",
+      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/rgmy-v1.0.1/RGMY.ipa",
+      "size": 3690124,
+      "localizedDescription": "Control de finanzas personales, gastos, deudas y metas",
+      "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icons/rgmy.png"
     }
   ]
 }
