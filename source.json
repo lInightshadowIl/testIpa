@@ -63,10 +63,10 @@
       "name": "RGMY",
       "bundleIdentifier": "com.night.rgmy",
       "developerName": "Night",
-      "version": "1.0.9",
-      "versionDate": "2026-08-30T02:40:24Z",
-      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/rgmy-v1.0.9/RGMY.ipa",
-      "size": 1950641,
+      "version": "1.0.10",
+      "versionDate": "2026-08-30T03:20:08Z",
+      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/rgmy-v1.0.10/RGMY.ipa",
+      "size": 1950662,
       "localizedDescription": "Control de finanzas personales, gastos, deudas y metas",
       "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icons/rgmy.png"
     }
