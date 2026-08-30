@@ -5,17 +5,6 @@
   "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icons/my.png",
   "apps": [
     {
-      "name": "Biotren",
-      "bundleIdentifier": "com.night.efe",
-      "developerName": "Night",
-      "version": "1.0.13",
-      "versionDate": "2026-08-17T19:55:02Z",
-      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/efe-v1.0.13/Biotren.ipa",
-      "size": 4992634,
-      "localizedDescription": "Horarios sin conexión",
-      "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icons/efe.png"
-    },
-    {
       "name": "Glyph+",
       "bundleIdentifier": "com.night.glyphplus",
       "developerName": "Night",
