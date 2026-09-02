@@ -31,10 +31,11 @@
       "name": "RGMY",
       "bundleIdentifier": "com.night.rgmy",
       "developerName": "Night",
-      "version": "1.0.28",
-      "versionDate": "2026-09-01T01:45:31Z",
-      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/rgmy-v1.0.28/RGMY.ipa",
-      "size": 1957436,
+      "version": "1.0.29",
+      "versionDate": "2026-09-02T03:37:41Z",
+      "versionDescription": "# Novedades de esta versión:\n• 🏷️ Clasificación de Gastos: Posibilidad de marcar gastos como \"🛍️ Gusto / Salida\" o \"🛒 Gasto Necesario\" con 1 toque.\n• 🎯 Presupuesto Inteligente: El presupuesto personal descuenta exclusivamente los gustos, protegiendo tus cuentas y gastos esenciales.\n• 📄 Reportes PDF Limpios: Formato financiero profesional, sin signos menos en déficits (resaltados en rojo) y detalle de productos limpio.\n• 💵 Ingresos Confirmados: El balance y reportes consideran únicamente ingresos confirmados como recibidos.\n• ⚡ Fluidez y Corrección de Scroll: Recargas en caliente sin parpadeos y solución al bloqueo de scroll al cambiar de pestañas.",
+      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/rgmy-v1.0.29/RGMY.ipa",
+      "size": 1957481,
       "localizedDescription": "Control de finanzas personales, gastos, deudas y metas",
       "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icons/rgmy.png"
     }
