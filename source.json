@@ -8,11 +8,12 @@
       "name": "Glyph+",
       "bundleIdentifier": "com.night.glyphplus",
       "developerName": "Night",
-      "version": "1.0.24",
-      "versionDate": "2026-08-30T03:00:17Z",
-      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/glyphplus-v1.0.24/Glyph+.ipa",
-      "size": 6793295,
-      "localizedDescription": "Recordatorio",
+      "version": "1.0.25",
+      "versionDate": "2026-09-02T20:20:55Z",
+      "versionDescription": "fix(glyph+): correccion de tipos y firma de delegado PiP",
+      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/glyphplus-v1.0.25/Glyph.ipa",
+      "size": 6806961,
+      "localizedDescription": "Camara inteligente de glifos",
       "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icons/glyphplus.png"
     },
     {
