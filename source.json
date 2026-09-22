@@ -44,11 +44,11 @@
       "name": "AppGroupTest",
       "bundleIdentifier": "com.TUUSUARIO.AppGroupTest",
       "developerName": "Night",
-      "version": "1.3",
-      "versionDate": "2026-09-22T01:29:24Z",
-      "versionDescription": "Update v1.3",
+      "version": "1.4",
+      "versionDate": "2026-09-22T01:43:17Z",
+      "versionDescription": "Update v1.4",
       "downloadURL": "https://github.com/lInightshadowIl/testIpa/raw/main/AppGroupTest.ipa",
-      "size": 48614,
+      "size": 49140,
       "localizedDescription": "Test",
       "iconURL": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
     }
