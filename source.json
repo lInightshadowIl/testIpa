@@ -42,19 +42,15 @@
     },
     {
       "name": "AppGroupTest",
+      "bundleIdentifier": "com.TUUSUARIO.AppGroupTest",
       "developerName": "Night",
-      "iconURL": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "downloadURL": "https://github.com/lInightshadowIl/testIpa/raw/main/AppGroupTest.ipa",
-          "localizedDescription": "Initial AppGroupTest IPA",
-          "size": 28117,
-          "sha256": "6381b3cbfa60273c348b70ec4e56102802335337ef0f6590c74346fb9c1c03a2",
-          "date": "2026-09-21"
-        }
-      ],
-      "bundleIdentifier": "com.TUUSUARIO.AppGroupTest"
+      "version": "1.0.0",
+      "versionDate": "2026-09-16T22:37:32Z",
+      "versionDescription": "hi",
+      "downloadURL": "https://github.com/lInightshadowIl/testIpa/raw/main/AppGroupTest.ipa",
+      "size": 28117,
+      "localizedDescription": "Test",
+      "iconURL": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
     }
   ]
 }
