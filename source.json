@@ -17,18 +17,6 @@
       "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icons/glyphplus.png"
     },
     {
-      "name": "GHIA",
-      "bundleIdentifier": "com.night.ghia",
-      "developerName": "Night",
-      "version": "1.0.33",
-      "versionDate": "2026-09-12T01:08:09Z",
-      "versionDescription": "fix(broadcast): corregir llamada residual en reinicio de sesion de broadcast",
-      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/ghia-v1.0.33/GHIA.ipa",
-      "size": 2542560,
-      "localizedDescription": "Recordatorio visual de glifos",
-      "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icons/ghia.png"
-    },
-    {
       "name": "RGMY",
       "bundleIdentifier": "com.night.rgmy",
       "developerName": "Night",
@@ -39,18 +27,6 @@
       "size": 2022899,
       "localizedDescription": "Control de finanzas personales, gastos, deudas y metas",
       "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icons/rgmy.png"
-    },
-    {
-      "name": "AppGroupTest",
-      "bundleIdentifier": "com.TUUSUARIO.AppGroupTest",
-      "developerName": "Night",
-      "version": "1.4",
-      "versionDate": "2026-09-22T01:43:17Z",
-      "versionDescription": "Update v1.4",
-      "downloadURL": "https://github.com/lInightshadowIl/testIpa/raw/main/AppGroupTest.ipa",
-      "size": 49140,
-      "localizedDescription": "Test",
-      "iconURL": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
     }
   ]
 }
