@@ -20,11 +20,11 @@
       "name": "RGMY",
       "bundleIdentifier": "com.night.rgmy",
       "developerName": "Night",
-      "version": "1.0.52",
-      "versionDate": "2026-10-01T21:32:47Z",
-      "versionDescription": "fix: navegacion fluida y selector de meses en informes pdf",
-      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/rgmy-v1.0.52/RGMY.ipa",
-      "size": 2024995,
+      "version": "1.0.53",
+      "versionDate": "2026-10-01T21:50:30Z",
+      "versionDescription": "style: mejoras visuales en resumen, gastos y estado de conexion",
+      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/rgmy-v1.0.53/RGMY.ipa",
+      "size": 2025053,
       "localizedDescription": "Control de finanzas personales, gastos, deudas y metas",
       "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icons/rgmy.png"
     }
