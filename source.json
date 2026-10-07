@@ -20,11 +20,11 @@
       "name": "RGMY",
       "bundleIdentifier": "com.night.rgmy",
       "developerName": "Night",
-      "version": "1.0.59",
-      "versionDate": "2026-10-07T21:50:19Z",
-      "versionDescription": "fix(creditos): portal en modales, boton editar accesible, cuotas dinamicas y mantencion unificada",
-      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/rgmy-v1.0.59/RGMY.ipa",
-      "size": 2208659,
+      "version": "1.0.60",
+      "versionDate": "2026-10-07T23:11:15Z",
+      "versionDescription": "feat(creditos): selector de modalidad sin interes y reparto bancario exacto de cuotas",
+      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/rgmy-v1.0.60/RGMY.ipa",
+      "size": 2209240,
       "localizedDescription": "Control de finanzas personales, gastos, deudas y metas",
       "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icons/rgmy.png"
     }
