@@ -20,11 +20,11 @@
       "name": "RGMY",
       "bundleIdentifier": "com.night.rgmy",
       "developerName": "Night",
-      "version": "1.0.57",
-      "versionDate": "2026-10-07T21:00:53Z",
-      "versionDescription": "fix(creditos): eliminar auto-completado de cuota al tipear monto o cambiar numero de cuotas",
-      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/rgmy-v1.0.57/RGMY.ipa",
-      "size": 2208182,
+      "version": "1.0.58",
+      "versionDate": "2026-10-07T21:23:02Z",
+      "versionDescription": "feat(creditos): desglose opcional de mantencion en creditos propios y registro en gastos",
+      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/rgmy-v1.0.58/RGMY.ipa",
+      "size": 2208868,
       "localizedDescription": "Control de finanzas personales, gastos, deudas y metas",
       "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icons/rgmy.png"
     }
