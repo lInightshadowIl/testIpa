@@ -32,11 +32,11 @@
       "name": "RGMY Beta",
       "bundleIdentifier": "com.night.rgmy.beta",
       "developerName": "Night",
-      "version": "1.0.167",
-      "versionDate": "2026-11-20T21:05:44Z",
-      "versionDescription": "UI: quitar texto saldo a favor en Disponible, mover editar/eliminar en tarjeta ahorro y quitar botones Transferir y Ajustar",
-      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/rgmy-beta-v1.0.167/RGMYBeta.ipa",
-      "size": 2241983,
+      "version": "1.0.168",
+      "versionDate": "2026-11-20T21:21:41Z",
+      "versionDescription": "UI: unificar editar y eliminar en modal al estilo metas, limpiar botones obsoletos y estabilizar altura de tarjeta Disponible",
+      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/rgmy-beta-v1.0.168/RGMYBeta.ipa",
+      "size": 2241775,
       "localizedDescription": "Control de finanzas personales, gastos, deudas y metas",
       "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icons/rgmy-beta.png"
     }
