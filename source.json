@@ -32,11 +32,11 @@
       "name": "RGMY Beta",
       "bundleIdentifier": "com.night.rgmy.beta",
       "developerName": "Night",
-      "version": "1.0.166",
-      "versionDate": "2026-11-20T04:23:10Z",
-      "versionDescription": "Fix: actualizar archivo en Directory.Documents en cada auto-guardado para reflejar fecha en app Archivos",
-      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/rgmy-beta-v1.0.166/RGMYBeta.ipa",
-      "size": 2243180,
+      "version": "1.0.167",
+      "versionDate": "2026-11-20T21:05:44Z",
+      "versionDescription": "UI: quitar texto saldo a favor en Disponible, mover editar/eliminar en tarjeta ahorro y quitar botones Transferir y Ajustar",
+      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/rgmy-beta-v1.0.167/RGMYBeta.ipa",
+      "size": 2241983,
       "localizedDescription": "Control de finanzas personales, gastos, deudas y metas",
       "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icons/rgmy-beta.png"
     }
