@@ -32,11 +32,11 @@
       "name": "RGMY Beta",
       "bundleIdentifier": "com.night.rgmy.beta",
       "developerName": "Night",
-      "version": "1.0.168",
-      "versionDate": "2026-11-20T21:21:41Z",
-      "versionDescription": "UI: unificar editar y eliminar en modal al estilo metas, limpiar botones obsoletos y estabilizar altura de tarjeta Disponible",
-      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/rgmy-beta-v1.0.168/RGMYBeta.ipa",
-      "size": 2241775,
+      "version": "1.0.169",
+      "versionDate": "2026-11-20T21:34:15Z",
+      "versionDescription": "UI: alinear y unificar al 100% tarjeta de Disponible con Mis Ahorros y resto de stat-cards",
+      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/rgmy-beta-v1.0.169/RGMYBeta.ipa",
+      "size": 2241754,
       "localizedDescription": "Control de finanzas personales, gastos, deudas y metas",
       "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icons/rgmy-beta.png"
     }
