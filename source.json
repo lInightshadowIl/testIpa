@@ -32,11 +32,11 @@
       "name": "RGMY Beta",
       "bundleIdentifier": "com.night.rgmy.beta",
       "developerName": "Night",
-      "version": "1.0.164",
-      "versionDate": "2026-11-20T03:23:23Z",
-      "versionDescription": "UI: clarificar opciones y vista previa de regla de sueldo ante feriados y fin de semana",
-      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/rgmy-beta-v1.0.164/RGMYBeta.ipa",
-      "size": 2242384,
+      "version": "1.0.165",
+      "versionDate": "2026-11-20T03:56:57Z",
+      "versionDescription": "Metas: permitir aportes y saldos iniciales desde ahorros previos sin descontar de los gastos del mes",
+      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/rgmy-beta-v1.0.165/RGMYBeta.ipa",
+      "size": 2242953,
       "localizedDescription": "Control de finanzas personales, gastos, deudas y metas",
       "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icons/rgmy-beta.png"
     }
