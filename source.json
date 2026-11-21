@@ -32,11 +32,11 @@
       "name": "RGMY Beta",
       "bundleIdentifier": "com.night.rgmy.beta",
       "developerName": "Night",
-      "version": "1.0.171",
-      "versionDate": "2026-11-21T01:24:17Z",
-      "versionDescription": "UI: remover textos innecesarios en Disponible y preservar altura fija",
-      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/rgmy-beta-v1.0.171/RGMYBeta.ipa",
-      "size": 2241735,
+      "version": "1.0.172",
+      "versionDate": "2026-11-21T01:53:36Z",
+      "versionDescription": "UI: mostrar disponible como 0 en caso de sobregiro y monto excedido en subtitulo",
+      "downloadURL": "https://github.com/lInightshadowIl/testIpa/releases/download/rgmy-beta-v1.0.172/RGMYBeta.ipa",
+      "size": 2241734,
       "localizedDescription": "Control de finanzas personales, gastos, deudas y metas",
       "iconURL": "https://raw.githubusercontent.com/lInightshadowIl/testIpa/main/icons/rgmy-beta.png"
     }
